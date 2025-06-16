@@ -2,6 +2,8 @@
 
 ### About
 
+This article is currently under consideration by The Visual Computer journal.
+
 This is an official repository of "Multi-illuminant Color Constancy via Multi-scale  Illuminant Estimation and Fusion".
 
 This repository provides:
