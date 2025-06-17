@@ -1,10 +1,10 @@
-# Multi-illuminant Color Constancy via Multi-scale  Illuminant Estimation and Fusion
+# Enhancing Multi-illuminant Color Constancy through Multi-scale Illuminant Estimation and Adaptive Fusion
 
 ### About
 
 This article is currently under consideration by The Visual Computer journal.
 
-This is an official repository of "Multi-illuminant Color Constancy via Multi-scale  Illuminant Estimation and Fusion".
+This is an official repository of "Enhancing Multi-illuminant Color Constancy through Multi-scale Illuminant Estimation and Adaptive Fusion".
 
 This repository provides:
 
