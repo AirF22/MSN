@@ -53,7 +53,7 @@ No new datasets were created in our paper, all existing publicly available datas
 
    ⚠**For single-illuminant images, we calculate the mean values of both the model's predicted illuminant map and the ground-truth illuminant map, then use these values as error statistics for evaluation and testing purposes.**
 
-   ⚠⚠**The cube++ dataset does not need to load the mask file since the Spyder Cube is removed at the time of cropping**
+   ⚠⚠**In the Cube++ dataset, no mask file is needed because the SpyderCube is already cropped out.**
 
    ##### Test
 
