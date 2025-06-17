@@ -51,9 +51,9 @@ No new datasets were created in our paper, all existing publicly available datas
 
    Check the Hyper Parameter and Path in train.py and run train.py
 
-   ⚠**For single-illuminant picture, we use the mean value of predict illuminant map of model and the mean value of ground true illuminant map as evaluation and test step error statistics data.**
+   ⚠**For single-illuminant images, we calculate the mean values of both the model's predicted illuminant map and the ground-truth illuminant map, then use these values as error statistics for evaluation and testing purposes.**
 
-   ⚠⚠**The cube++ dataset does not need to load the mask file since the Spyder block is removed at the time of cropping**
+   ⚠⚠**The cube++ dataset does not need to load the mask file since the Spyder Cube is removed at the time of cropping**
 
    ##### Test
 
