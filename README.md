@@ -38,7 +38,7 @@ No new datasets were created in our paper, all existing publicly available datas
 
    ##### Test
 
-   Check the Hyper Parameter and Path in test.py and run test.py. 
+   Check the Hyper Parameter and Path in test_single.py and run test_single.py. 
 
    
 
@@ -54,7 +54,7 @@ No new datasets were created in our paper, all existing publicly available datas
 
    ##### Test
 
-   Check the Hyper Parameter and Path in test.py and run test.py. 
+   Check the Hyper Parameter and Path in test_single.py and run test_single.py. 
 
    
 
