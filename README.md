@@ -8,12 +8,9 @@ This is an official repository of "Enhancing Multi-illuminant Color Constancy th
 
 This repository provides:
 
-- Architecture code for the Multi-scale Net (MSN) model
-  
+- Architecture code for the Multi-scale Net (MSN) model  
 - Code for dataset loading and preprocessing
 - Code for training and testing
-- Code for statistics-based methods implemented by python
-- Code for white balance and visualization
 - Pre-trained model parameter file for Multi-scale Net
 
 
