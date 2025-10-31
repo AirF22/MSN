@@ -4,7 +4,7 @@
 
 This article is currently under consideration by The Visual Computer journal.
 
-This is an official repository of "Enhancing Multi-illuminant Color Constancy through Multi-scale Illuminant Estimation and Adaptive Fusion".
+This is an official repository of "Enhancing Multi-illuminant Color Constancy  through Multi-scale Estimation and  High-frequency Preservation".
 
 This repository provides:
 
