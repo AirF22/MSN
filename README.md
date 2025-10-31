@@ -1,4 +1,4 @@
-# Enhancing Multi-illuminant Color Constancy through Multi-scale Illuminant Estimation and Adaptive Fusion
+# Enhancing Multi-illuminant Color Constancy  through Multi-scale Estimation and  High-frequency Preservation
 
 ### About
 
