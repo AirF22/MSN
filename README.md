@@ -2,9 +2,7 @@
 
 ### About
 
-This article is currently under consideration by The Visual Computer journal.
-
-This is an official repository of "Enhancing Multi-illuminant Color Constancy  through Multi-scale Estimation and  High-frequency Preservation".
+This is the official repository for "Enhancing Multi-illuminant Color Constancy through Multi-scale Estimation and High-frequency Preservation", accepted for publication in The Visual Computer. https://doi.org/10.1007/s00371-026-04370-9
 
 This repository provides:
 
@@ -50,11 +48,11 @@ No new datasets were created in our paper, all existing publicly available datas
 
    ⚠**For single-illuminant images, we calculate the mean values of both the model's predicted illuminant map and the ground-truth illuminant map, then use these values as error statistics for evaluation and testing purposes.**
 
-   ⚠⚠**In the Cube++ dataset, no mask file is needed because the SpyderCube is already cropped out.**
+   ⚠**In the Cube++ dataset, no mask file is needed because the SpyderCube is already cropped out.**
 
    ##### Test
 
-   Check the Hyper Parameter and Path and run test_single.py. 
+   Check the Hyper Parameter and Path and run test_single.py.
 
    
 
@@ -62,4 +60,19 @@ No new datasets were created in our paper, all existing publicly available datas
 
    
 
-   
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@article{luo2026enhancing,
+  title={Enhancing multi-illuminant color constancy through multi-scale estimation and high-frequency preservation: H. Luo et al.},
+  author={Luo, Hang and Li, Rongwei and Liang, Jinxing},
+  journal={The Visual Computer},
+  volume={42},
+  number={3},
+  pages={163},
+  year={2026},
+  publisher={Springer}
+}
+```
